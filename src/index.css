@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, #7303c0, #ec38bc, #ff5d8f);
+}
+
+button {
+	cursor: pointer;
+}
